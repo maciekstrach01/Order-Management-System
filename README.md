@@ -1,7 +1,7 @@
 
 ## Video
 
-https://github.com/maciekstrach01/Order-Management-System/assets/146733279/72127aaa-8a5c-46f8-9a92-9c2769d4e864
+https://github.com/maciekstrach01/Order-Management-System/assets/146733279/22bea497-1922-4476-a9e0-0496226f05e1
 
 # Order Management System
 
