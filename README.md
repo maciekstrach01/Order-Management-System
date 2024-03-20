@@ -7,8 +7,7 @@ https://github.com/maciekstrach01/Order-Management-System/assets/146733279/72127
 
 The Java Order Management System program is a window application used to manage store orders. The system includes three main objects: Customer, Product and Order, defined according to requirements, such as ID, name, price, date, etc.
 
-Features of the system include adding and deleting customers and products, displaying a list of customers and products, and adding and deleting orders. In addition, the system allows filtering customers by various criteria, such as order value, order date, and searching for products by name.
-
+Features of the system include adding and deleting customers and products, displaying a list of customers and products, and adding and deleting orders. 
 In addition, the system allows sorting customers by various criteria, such as order value, order date, and product name. This makes it easy for users to find and review customers according to specific preferences.
 
 The user interface has been implemented using the Swing library, allowing the program to be used conveniently using buttons and panels. Data can be stored both in memory and in text files, according to user preference.
