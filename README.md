@@ -24,7 +24,7 @@ The user interface has been implemented using the Swing library, allowing the pr
 
 ![Obraz5](https://github.com/maciekstrach01/Order-Management-System/assets/146733279/f751287c-e618-45cd-870e-3581a4ceebea)
 
-![Obraz6](https://github.com/maciekstrach01/Order-Management-System/assets/146733279/12150996-c72c-49d6-9130-7aaccd291a55)
+
 
 
 
