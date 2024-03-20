@@ -1,8 +1,7 @@
 
 ## Video
 
-https://github.com/maciekstrach01/Order-Management-System/assets/146733279/da890a47-5a92-4287-a0fb-4905c7788778
-
+https://github.com/maciekstrach01/Order-Management-System/assets/146733279/72127aaa-8a5c-46f8-9a92-9c2769d4e864
 
 # Order Management System
 
@@ -16,22 +15,17 @@ The user interface has been implemented using the Swing library, allowing the pr
 
 ## Screenshots
 
-![Obraz1](https://github.com/maciekstrach01/Order-Management-System/assets/146733279/109abd64-fd64-4e2b-a894-0a588fb35f58)
+![Obraz1](https://github.com/maciekstrach01/Order-Management-System/assets/146733279/a5c34f73-bd5a-40bb-8982-e742d533f779)
 
-![Obraz2](https://github.com/maciekstrach01/Order-Management-System/assets/146733279/23d18b88-8b9f-45a1-a07f-fff9beca4c6f)
+![Obraz2](https://github.com/maciekstrach01/Order-Management-System/assets/146733279/0020f241-7cad-4ede-95c4-068daae17814)
 
-![Obraz3](https://github.com/maciekstrach01/Order-Management-System/assets/146733279/e72adf6d-7fbc-4996-8b24-4729abeaea0c)
+![Obraz3](https://github.com/maciekstrach01/Order-Management-System/assets/146733279/1f16c17e-b8d8-4bad-97d8-47af9d9c4ff1)
 
-![Obraz4](https://github.com/maciekstrach01/Order-Management-System/assets/146733279/6b401b5c-ef46-4043-bead-b586a5c3ef35)
+![Obraz4](https://github.com/maciekstrach01/Order-Management-System/assets/146733279/4981d770-05ac-4feb-825f-688734a8c39e)
 
+![Obraz5](https://github.com/maciekstrach01/Order-Management-System/assets/146733279/f751287c-e618-45cd-870e-3581a4ceebea)
 
-![Obraz5](https://github.com/maciekstrach01/Order-Management-System/assets/146733279/0002c193-4bf3-49c4-be8b-87d23c9c25d7)
-
-![Obraz6](https://github.com/maciekstrach01/Order-Management-System/assets/146733279/d0fb6bed-a2bf-4db1-9f9f-b42756fbc130)
-
-
-
-
+![Obraz6](https://github.com/maciekstrach01/Order-Management-System/assets/146733279/12150996-c72c-49d6-9130-7aaccd291a55)
 
 
 
